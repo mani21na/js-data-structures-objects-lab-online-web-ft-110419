@@ -1,5 +1,5 @@
 // Write your solution in this file!
-const s = {};
+const driver = {};
 
 function updateDriverWithKeyAndValue(driver, key, value) {
   const newDriverObj = {...driver};
